@@ -1,0 +1,7 @@
+{
+  "name": "tdd-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
